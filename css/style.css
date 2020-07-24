@@ -1,0 +1,80 @@
+h1{
+    text-align: center;
+    margin: 50px;
+}
+section{
+    width: 100%;
+    background-color: #8d8a8a;
+    border: 2px solid black;
+    padding: 0 10px;
+    float: left;
+    margin: 18px;
+    position: relative;
+}
+.one{
+    height: 25px;
+    width: 100px;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 700;
+    border: 2px solid black;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    background-color: lightcoral; 
+}
+.two{
+    height: 25px;
+    width: 100px;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 700;
+    color: white;
+    border: 2px solid black;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    background-color: lightcoral;
+}   
+.three{
+    height: 25px;
+    width: 100px;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 700;
+    border: 2px solid black;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    background-color: lightcoral;
+}  @media screen and (max-width: 767px) {
+    .ek {
+      width: 90%;
+    }
+  }
+  @media screen and (max-width: 767px) {
+    .dui {
+      width: 90%;
+    }
+  }
+  @media screen and (max-width: 767px) {
+    .tin {
+      width: 90%;
+    }
+  }
+  @media screen and (min-width: 992px) {
+    .ek {
+      width: 28%;
+    }
+  }
+  @media screen and (min-width: 992px) {
+    .dui {
+      width: 28%;
+    }
+  }
+  @media screen and (min-width: 992px) {
+    .tin {
+      width: 28%;
+    }
+  }
+
